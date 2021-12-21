@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+}
+#start , #number_object , #status{
+    font-size: 18px;
+}
+.copy_right_footer{
+    position: fixed;
+    background-color: grey;
+    color: white;
+    font-size: 23px;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    bottom: 0;
+}
+.heading{
+    width: 100%;
+    font-size: 30px;
+    margin: 0px;
+}
+.in{
+    width: 100%;
+    margin: 10px;
+}
+canvas{
+    border: 2px solid white;
+    border-radius:10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+   }
+.textbox{
+    width: 500px;
+    border-radius: 75px;
+}
